@@ -1,0 +1,7 @@
+@mixin themeBackground() {
+  background-image: linear-gradient(to bottom right, #ED432E, #F8B06F)
+}
+
+@mixin cardShadow() {
+  //box-shadow: 2px 4px 20px 0px rgba(193, 91, 91, 0.3);
+}
